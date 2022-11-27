@@ -1,0 +1,31 @@
+
+nombre: ernesto
+age: 22
+address: "Peru"
+active: true
+key:
+  key: value
+  key2: 33
+  key3:
+    key: value
+    key2: value
+jsonobject: { key: value, key2: 33, key3: { key: value, key2: value } }
+array:
+  - item1
+  - item2
+  - { key: value }
+jsonArray: [item1,item2]
+objectsArray:
+  - key: value
+    key2: value2
+  - key: value
+    key2: value2
+longText: >
+  hola 
+  a 
+  todos
+longText2: |
+  hola 
+  a 
+  todos 
+  
